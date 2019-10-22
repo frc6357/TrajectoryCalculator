@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TrajectoryCalculatorRunner",
+            "request": "launch",
+            "mainClass": "src.TrajectoryCalculatorRunner",
+            "projectName": "TrajectoryCalculator_e97b1fb3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TrajectoryCalculatorRunner",
+            "request": "launch",
+            "mainClass": "TrajectoryCalculatorRunner",
+            "projectName": "TrajectoryCalculator_e97b1fb3"
+        }
+    ]
+}
