@@ -5,7 +5,8 @@ import java.util.*;
 /**
  * Hello world!
  */
-public final class App {
+public final class App 
+{
     private App() 
     {
 
@@ -14,7 +15,8 @@ public final class App {
      * Says hello to the world.
      * @param args The arguments of the program.
      */
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         System.out.println("Hello World!");
         CMatrixRMaj matrix1 = new CMatrixRMaj(5, 5);
     }
