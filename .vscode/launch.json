@@ -5,6 +5,13 @@
             "name": "CodeLens (Launch) - TrajectoryCalculatorRunner",
             "request": "launch",
             "mainClass": "src.TrajectoryCalculatorRunner",
+            "projectName": "TrajectoryCalculator_aabb6b8a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TrajectoryCalculatorRunner",
+            "request": "launch",
+            "mainClass": "src.TrajectoryCalculatorRunner",
             "projectName": "TrajectoryCalculator_e97b1fb3"
         },
         {
